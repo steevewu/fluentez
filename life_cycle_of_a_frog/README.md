@@ -78,6 +78,10 @@ Speaker 0: That’s what I like to hear! And to everyone listening — thanks fo
 
 
 
+https://github.com/user-attachments/assets/3f023ece-e4cd-4826-a445-1ce7e310745a
+
+
+
 </div>
 
 ## Vocabularies
