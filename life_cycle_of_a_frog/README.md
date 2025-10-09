@@ -87,6 +87,39 @@ https://github.com/user-attachments/assets/3f023ece-e4cd-4826-a445-1ce7e310745a
 ## Vocabularies
 
 
+```json
+"vocabularies": {
+    "overlook": "If you ... a fact or problem, you do not notice it, or do not realize how important it is.",
+    "admit": "If you ... that something bad, unpleasant, or embarrassing is true, you agree, often unwillingly, that it is true.",
+    "freshwater": "A ... lake contains water that is not salty, usually in contrast to the sea. ... creatures live in water that is not salty.",
+    "pond": "A ... is a small area of water that is smaller than a lake. ... are often made artificially.",
+    "swamp": "A ... is an area of very wet land with wild plants growing in it.",
+    "playing the odds": "Taking a chance and hoping probability works in your favour.",
+    "coating": "A  ... of a substance is a thin layer of it spread over a surface.",
+    "easy pickings": "Something that can be easily caught or taken.",
+    "a numbers game": "A situation where success depends on large quantity or probability.",
+    "hatch": "When an egg ... or when a bird, insect, or other animal ... an egg, the egg breaks open and a baby comes out.",
+    "tadpole": "... are small water creatures which grow into frogs or toads.",
+    "gill": "... are the organs on the sides of fish and other water creatures through which they breathe.",
+    "confined": "If something is ... to a particular place, it exists only in that place. If it is confined to a particular group, only members of that group have it.",
+    "bud": "A ... is a small pointed lump that appears on a tree or plant and develops into a leaf or flower.",
+    "sprout": "When plants, vegetables, or seeds ... , they produce new shoots or leaves.",
+    "froglet": "a small or immature frog",
+    "dipping their toes": "Trying something new carefully or slowly.",
+    "testing the waters": "Trying something out before fully committing.",
+    "well equipped": "Having the necessary ability or tools to function effectively.",
+    "invertebrate": "An ... is a creature that does not have a spine, for example an insect, a worm, or an octopus.",
+    "go full circle": "Return to the original point in a process.",
+    "what goes around comes around": "Actions eventually lead to consequences; karma.",
+    "poetic": "Something that is ... is very beautiful and expresses emotions in a sensitive or moving way.",
+    "turn the tide": "Change the course of events, often for the better.",
+    "breed": "If you ... animals or plants, you keep them for the purpose of producing more animals or plants with particular qualities, in a controlled way.",
+    "captivity": "... is the state of being kept imprisoned or enclosed.",
+    "uphill battle": "A task that is very difficult to achieve.",
+    "thermometer": "A ... is an instrument for measuring temperature. It usually consists of a narrow glass tube containing a thin column of a liquid which rises and falls as the temperature rises and falls."
+}
+```
+
 ## Collocations
 ```json
 "collocations": {
@@ -103,14 +136,14 @@ https://github.com/user-attachments/assets/3f023ece-e4cd-4826-a445-1ce7e310745a
     "turn the tide": "Reverse or improve a negative situation.",
     "habitat loss": "The destruction of natural environments where species live.",
     "uphill battle": "A very difficult struggle."
-  }
+}
 ```
 
 
 
 ## Idioms
 ```json
-  "idioms": {
+"idioms": {
     "kick things off": "To begin something.",
     "out pop the tadpoles": "A casual expression meaning they suddenly appear or hatch.",
     "stuck between two worlds": "In a transitional stage between two states or conditions.",
@@ -120,5 +153,5 @@ https://github.com/user-attachments/assets/3f023ece-e4cd-4826-a445-1ce7e310745a
     "go full circle": "To return to the beginning stage of a process or journey.",
     "uphill battle": "A task that is very difficult to achieve.",
     "tie back to the beginning": "Connect again to the starting point or idea."
-  }
+}
 ```
