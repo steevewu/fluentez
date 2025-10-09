@@ -63,13 +63,33 @@ Speaker 2: Thanks again for having me.
 
 
 
+https://github.com/user-attachments/assets/a0b8f06e-31d6-41f9-83d9-c3f44d02d7a4
+
+
+
 </div>
 
 
 ## Vocabularies
 
 ```json
-
+"vocabularies": {
+    "thought-provoking": "If something such as a book or a film is ... , it contains interesting ideas that make people think seriously.",
+    "linguist": "A ... is someone who is good at speaking or learning foreign languages.",
+    "gradual": "A ... change or process occurs in small stages over a long period of time, rather than suddenly.",
+    "sophisticated": "A ... person is intelligent and knows a lot, so that they are able to understand complicated situations.",
+    "bond": "A ... between people is a strong feeling of friendship, love, or shared beliefs and experiences that unites them.",
+    "hyoid bone": "a U-shaped bone in the middle of the neck between the chin and the thyroid that supports the tongue and tongue muscles in humans, or a similar group of bones in animals",
+    "pass on knowledge": "to share or transmit what one knows to others",
+    "decade": "A ... is a period of ten years, especially one that begins with a year ending in 0, for example 1980 to 1989.",
+    "progression": "A ... is a gradual development from one state to another.",
+    "perspective": "A particular ... is a particular way of thinking about something, especially one that is influenced by your beliefs or experiences.",
+    "neurolinguistics": "the study of the relationship between language and the brain.",
+    "drop old terms": "to stop using outdated vocabulary",
+    "the million-dollar question": "an important or difficult question with no easy answer",
+    "light up": "to become active or excited, especially referring to brain activity in scans",
+    "enlighten": "to provide someone with information and understanding, or to explain the true facts about something to someone"
+}
 ```
 
 ## Collocations
