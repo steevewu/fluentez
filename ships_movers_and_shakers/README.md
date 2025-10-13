@@ -45,6 +45,10 @@ Speaker 2: Until then, keep your curiosity afloat.
 
 
 
+https://github.com/user-attachments/assets/b37f441b-9b1c-47e0-981b-0064be285f8e
+
+
+
 </div>
 
 
