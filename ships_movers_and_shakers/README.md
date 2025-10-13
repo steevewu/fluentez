@@ -55,7 +55,46 @@ https://github.com/user-attachments/assets/b37f441b-9b1c-47e0-981b-0064be285f8e
 ## Vocabularies
 
 ```json
-
+"vocabularies": {
+        "realm": "You can use ... to refer to any area of activity, interest, or thought.",
+        "high seas": "the sea or ocean beyond the three-mile limit or territorial waters of a country",
+        "lifeboat": "A ... is a small boat that is carried on a ship, which people on the ship use to escape when the ship is in danger of sinking",
+        "maiden voyage": "The ... or flight of a ship or aircraft is the first official journey that it makes.",
+        "papyrus": "... is a tall water plant that grows in Africa.",
+        "capable of": "If a person or thing is ...  doing something, they have the ability to do it.",
+        "galley": "In former times, a ... was a ship with sails and a lot of oars, which was often rowed by slaves or prisoners.",
+        "oar": "Oars are long poles with a wide, flat blade at one end which are used for rowing a boat.",
+        "vessel": "A ... is a ship or large boat.",
+        "junk": "A ... is a Chinese sailing boat that has a flat bottom and square sails.",
+        "watertight": "Something that is ... does not allow water to pass through it, for example because it is tightly sealed.",
+        "compartment": "A ... is one of the separate parts of an object that is used for keeping things in.",
+        "naval": "... means belonging to, relating to, or involving a country's navy.",
+        "warfare": "... is the activity of fighting a war.",
+        "mast": "The ... of a boat are the tall upright poles that support its sails.",
+        "cargo": "The ... of a ship or plane is the goods that it is carrying",
+        "continent": "A ... is a very large area of land, such as Africa or Asia, that consists of several countries.",
+        "clipper": "a long fast sailing ship of the 19th century",
+        "sleek": "... vehicles, furniture, or other objects look smooth, shiny, and expensive.",
+        "hulls": "The ... of a boat or tank is the main body of it.",
+        "paddle": "A ... is a short pole with a wide flat part at one end or at both ends. You hold it in your hands and use it as an oar to move a small boat through water.",
+        "propulsion": "... is the power that moves something, especially a vehicle, in a forward direction.",
+        "merchant": "... seamen or ships are involved in carrying goods for trade.",
+        "workhorse of the sea": "something that is very reliable and used for hard work over a long time",
+        "cruise ship": "a large passenger ship used for pleasure voyages",
+        "regulations": "... are rules made by a government or other authority in order to control the way something is done or the way people behave.",
+        "bulk carrier": "a ship that carries unpackaged cargo, usually consisting of a single dry commodity, such as coal or grain",
+        "coal": "... is a hard black substance that is extracted from the ground and burned as fuel.",
+        "ballast": "... is any substance that is used in ships or hot-air balloons to make them heavier and more stable. ... usually consists of water, sand, or iron.",
+        "push of a button": "to do something easily or instantly",
+        "leisure": "... is the time when you are not working and you can relax and do things that you enjoy.",
+        "Plimsoll line": "a mark on a ship\u2019s hull showing the maximum safe",
+        "buoy": "A buoy is a floating object that is used to show ships and boats where they can go and to warn them of danger.",
+        "anchor": "An ... is a heavy hooked object that is dropped from a boat into the water at the end of a chain in order to make the boat stay in one place.",
+        "hazard": "A ... is something which could be dangerous to you, your health or safety, or your plans or reputation.",
+        "steel": "... is a very strong metal which is made mainly from iron. Steel is used for making many things, for example bridges, buildings, vehicles, and cutlery.",
+        "yacht": "A ... is a large boat with sails or a motor, used for racing or pleasure trips.",
+        "keep your curiosity afloat": "to maintain an active interest or enthusiasm, using a nautical metaphor"
+    }
 ```
 
 ## Collocations
