@@ -45,6 +45,10 @@ Speaker 2: That’s all for today’s episode. Next time, we’re looking at ano
 
 
 
+https://github.com/user-attachments/assets/54d36da8-372f-4a82-b94d-a78577f7d2ad
+
+
+
 </div>
 
 
