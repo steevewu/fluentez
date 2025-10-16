@@ -55,7 +55,28 @@ https://github.com/user-attachments/assets/54d36da8-372f-4a82-b94d-a78577f7d2ad
 ## Vocabularies
 
 ```json
-
+"vocabularies": {
+        "unravel": "If you ...  a mystery or puzzle, or if it ... , it gradually becomes clearer and you can work out the answer to it.",
+        "mass production": "the manufacturing of large quantities of goods using machinery",
+        "archaeological": "relating to the investigation of ancient cultures, artefacts, and remains through the excavation and analysis of sites and objects",
+        "mulberry": "A ...  or a ... tree is a tree which has small purple berries which you can eat.",
+        "pound": "If you ...  something or ...  on it, you hit it with great force, usually loudly and repeatedly.",
+        "rag": "A ...  is a piece of old cloth which you can use to clean or wipe things.",
+        "hemp": "... is a plant used for making rope or the drug marijuana.",
+        "westward": "... means towards the west.",
+        "strip": "A ... of something such as paper, cloth, or food is a long, narrow piece of it.",
+        "soak": "If you ... something or leave it to soak, you put it into a liquid and leave it there.",
+        "parchment": "In former times, ... was the skin of a sheep or goat that was used for writing on.",
+        "vellum": "a material used in the past for writing on or for covering a book, made from the skins of young animals, especially cows or sheep",
+        "pulp": "If an object is pressed into a ..., it is crushed or beaten until it is soft, smooth, and wet.",
+        "bleached": "If you ... something, you use a chemical to make it white or pale in colour.",
+        "specialty": "Someone's ... is a particular type of work that they do most or do best, or a subject that they know a lot about.",
+        "flax": "... is a plant with blue flowers. Its stem is used for making thread, rope, and cloth, and its seeds are used for making linseed oil.",
+        "diploma": "a qualification given by a college or university to show that you have passed a particular exam or finished your studies",
+        "scrap": "A ... of something is a very small piece or amount of it.",
+        "scoop": "If you ... a person or thing somewhere, you put your hands or arms under or round them and quickly move them there.",
+        "petal": "The ... of a flower are the thin coloured or white parts which together form the flower."
+    }
 ```
 
 ## Collocations
