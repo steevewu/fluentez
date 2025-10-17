@@ -55,7 +55,25 @@ https://github.com/user-attachments/assets/0c725aa1-5e6c-41fc-8ec6-0514dc78c279
 ## Vocabularies
 
 ```json
-
+"vocabularies": {
+        "civilization": "A ...  is a human society with its own social organization and culture.",
+        "formation": "the development of something into a particular thing or shape",
+        "mining": "... is the industry and activities connected with getting valuable or useful minerals from the ground, for example coal, diamonds, or gold.",
+        "bury": "To ... something means to put it into a hole in the ground and cover it up with earth.",
+        "peat": "... is decaying plant material which is found under the ground in some cool, wet regions. ... can be added to soil to help plants grow, or can be burnt on fires instead of coal.",
+        "lignite": "a type of dark brown coal that is mainly used for generating (= producing) electricity and produces more carbon dioxide when it burns than other types of coal",
+        "bituminous coal": "a soft black coal, rich in volatile hydrocarbons, that burns with a smoky yellow flame.",
+        "anthracite": "... is a type of very hard coal which burns slowly, producing a lot of heat and very little smoke.",
+        "segue into": "To ... something such as a new situation, job, or mood means to move into it.",
+        "deposits": "A ... is an amount of a substance that has been left somewhere as a result of a chemical or geological process.",
+        "overburden": "to make someone or something work too hard or carry, contain, or deal with too much",
+        "beneath": "in or to a lower position than someone or something, under someone or something",
+        "seam": "A ... of coal is a long, narrow layer of it underneath the ground.",
+        "shaft": "In a machine, a ... is a rod that turns round continually in order to transfer movement in the machine.",
+        "suffering": "... is serious pain which someone feels in their body or their mind.",
+        "contaminate": "If something is ... by waste, dirt, chemicals, or radiation, it is made dirty or harmful.",
+        "debate": "A ... is a discussion about a subject on which people have different views."
+  }
 ```
 
 ## Collocations
