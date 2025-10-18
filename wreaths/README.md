@@ -1,5 +1,5 @@
 <h2 align='center'>
-HISTORY OF BLOOM - WREATHS
+HISTORY IN BLOOM - WREATHS
 </h2>
 
 <div align='center'>
@@ -38,6 +38,10 @@ Speaker 0: From harvest to holiday, celebration to sorrow—wreaths circle aroun
 
 
 <div align='center'>
+
+
+
+https://github.com/user-attachments/assets/b22e1bfb-1881-4424-b87e-561b23978c51
 
 
 
