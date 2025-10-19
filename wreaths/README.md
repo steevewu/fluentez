@@ -51,7 +51,44 @@ https://github.com/user-attachments/assets/b22e1bfb-1881-4424-b87e-561b23978c51
 ## Vocabularies
 
 ```json
-
+ "vocabularies": {
+        "wreath": "A ... is an arrangement of flowers and leaves, usually in the sha
+pe of a circle, which you put on a grave or by a statue to show that you remember a 
+person who has died or people who have died.",
+        "symbolise": "If one thing ... another, it is used or regarded as a symbol o
+f it.",
+        "honour": "An ... is a special award that is given to someone, usually becau
+se they have done something good or because they are greatly respected.",
+        "spiritual": "... means relating to people's thoughts and beliefs, rather th
+an to their bodies and physical surroundings.",
+        "diadem": "A ... is a small crown with precious stones in it.",
+        "crown": "A ... is a circular ornament, usually made of gold and jewels, whi
+ch a king or queen wears on their head at official ceremonies. You can also use ... 
+to refer to anything circular that is worn on someone's head.",
+        "ceremony": "A ... is a formal event such as a wedding.",
+        "headpiece": "an ornamental, ceremonial, or traditional covering for the head",
+        "laurel": "A ... or a ... tree is a small evergreen tree with shiny leaves. The leaves are sometimes used to make decorations such as wreaths.",
+        "wheat": "... is a cereal crop grown for food. ... is also used to refer to the grain of this crop, which is usually ground into flour and used to make bread.",
+        "ivy": "... is an evergreen plant that grows up walls or along the ground.",
+        "wisdom": "... is the ability to use your experience and knowledge in order to make sensible decisions or judgments.",
+        "medieval": "Something that is ... relates to or was made in the period of European history between the end of the Roman Empire in 476 AD and about 1500 AD.",
+        "harvest": "the time of year when crops are cut and collected from the fields, or the activity of cutting and collecting them, or the crops that are cut and collected",
+        "weave": "If you ... cloth or a carpet, you make it by crossing threads over and under each other using a frame or machine called a loom.",
+        "sheaf": "A ... of corn or wheat is a number of corn or wheat plants that have been cut down and tied together.",
+        "priest": "A ... is a member of the Christian clergy in the Catholic, Anglican, or Orthodox church.",
+        "ward off evil": "to protect against harm or misfortune",
+        "bring light into the darkness": "to provide hope in difficult times",
+        "name it": "anything you can think of",
+        "everlasting": "If you describe something as ..., you mean that it seems never to change or end.",
+        "ritual": "A ... is a religious service or other ceremony which involves a series of actions performed in a fixed order.",
+        "mourning": "... is behaviour in which you show sadness about a person's death.",
+        "funeral": "A ... is the ceremony that is held when the body of someone who has died is buried or cremated.",
+        "eternal": "If you describe something as ..., you mean that it seems to last for ever, often because you think it is boring or annoying.",
+        "sentimental": "... means relating to or involving feelings such as pity or love, especially for things in the past.",
+        "cemetery": "A ... is a place where dead people's bodies or their ashes are buried.",
+        "remembrance": "If you do something in ... of a dead person, you do it as a way of showing that you want to remember them and that you respect them.",
+        "sorrow": "... is a feeling of deep sadness or regret."
+    }
 ```
 
 ## Collocations
