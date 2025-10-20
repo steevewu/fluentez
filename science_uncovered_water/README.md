@@ -47,6 +47,10 @@ Speaker 0: Absolutely. Well, that’s all the time we have for today’s episode
 
 
 
+https://github.com/user-attachments/assets/9fb00589-e29e-4b16-af2d-b02d8a9efb74
+
+
+
 </div>
 
 
