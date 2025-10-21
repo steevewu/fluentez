@@ -57,7 +57,39 @@ https://github.com/user-attachments/assets/9fb00589-e29e-4b16-af2d-b02d8a9efb74
 ## Vocabularies
 
 ```json
-
+"vocabularies": {
+        "preservation": "the act of keeping something the same or of preventing it from being damaged",
+        "consumption": "The ... of food or drink is the act of eating or drinking something, or the amount that is eaten or drunk",
+        "mind-blowing": "If you describe something as ..., you mean that it is extremely impressive or surprising. ",
+        "striking": "Something that is ... is very noticeable or unusual. ",
+        "vapour": "... consists of tiny drops of water or other liquids in the air, which appear as mist. ",
+        "condensation": "... consists of small drops of water which form when warm water vapour or steam touches a cold surface such as a window. ",
+        "evaporate": "When a liquid ..., or is ..., it changes from a liquid state to a gas, because its temperature has increased. ",
+        "precipitation": "water that falls from the clouds towards the ground, especially as rain or snow",
+        "hail": "... consists of small balls of ice that fall like rain from the sky. ",
+        "hydrological": "concerned with or relating to the study of the water of the earth and its atmosphere, particularly at the land surface",
+        "infiltrate": "If people ... a place or organization, or infiltrate into it, they enter it secretly in order to spy on it or influence it.",
+        "replenish": "If you ... something, you make it full or complete again. ",
+        "water reserves": "Water that is stored for future use, either underground or in reservoirs",
+        "portion": "A ... of something is a part of it. ",
+        "aquifer": "In geology, an ... is an area of rock underneath the surface of the earth which absorbs and holds water. ",
+        "reservoir": "A ... is a lake that is used for storing water before it is supplied to people. ",
+        "eye-opening": " serving as an eyeopener; enlightening",
+        "scarce": "not available in necessary amounts, or rare",
+        "precious": "If you say that something such as a resource is ..., you mean that it is valuable and should not be wasted or used badly. ",
+        "pesticides": "... are chemicals which farmers put on their crops to kill harmful insects. ",
+        "fertiliser": "... is a substance such as solid animal waste or a chemical mixture that you spread on the ground in order to make plants grow more successfully. ",
+        "seep": "If something such as liquid or gas ... somewhere, it flows slowly and in small amounts into a place where it should not go.",
+        "urgent": "If something is ..., it needs to be dealt with as soon as possible. ",
+        "drought": "A ... is a long period of time during which no rain falls.",
+        "worsening": "an instance of becoming worse; deterioration ",
+        "refract": "When a ray of light or a sound wave ... or is ..., the path it follows bends at a particular point, for example when it enters water or glass. ",
+        "bentd": "When you ... a part of your body such as your arm or leg, or when it bends, you change its position so that it is no longer straight. ",
+        "droplet": "A ... is a very small drop of liquid. ",
+        "arc": "An ... is a smoothly curving line or movement.",
+        "take for granted": "To fail to appreciate something because it is so familiar or readily available.",
+        "put things into perspective": "Helps to understand or realise the full importance of something."
+    }
 ```
 
 ## Collocations
