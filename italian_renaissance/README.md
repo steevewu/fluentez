@@ -40,6 +40,7 @@ Speaker 0: And that’s where we’ll leave it for today, folks. We’ve only sc
 <div align='center'>
 
 
+https://github.com/user-attachments/assets/2a252e37-b299-4498-8756-faa4ac24b987
 
 </div>
 
@@ -47,6 +48,9 @@ Speaker 0: And that’s where we’ll leave it for today, folks. We’ve only sc
 ## Vocabularies
 
 ```json
+
+
+
 
 ```
 
