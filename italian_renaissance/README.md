@@ -49,9 +49,31 @@ https://github.com/user-attachments/assets/2a252e37-b299-4498-8756-faa4ac24b987
 
 ```json
 
-
-
-
+"vocabularies": {
+        "delve into": "If you ... something, you try to discover new information about it.",
+        "renaissance": "The ... was the period in Europe, especially Italy, in the 14th, 15th, and 16th centuries, when there was a new interest in art, literature, science, and learning.",
+        "emerge": "To ... means to come out from an enclosed or dark space such as a room or a vehicle, or from a position where you could not be seen.",
+        "pessimism": "... is the belief that bad things are going to happen.",
+        "inspiration": "... is a feeling of enthusiasm you get from someone or something, which gives you new and creative ideas.",
+        "pursuit of": "Your ... something is your attempts at achieving it. If you do something in ... a particular result, you do it in order to achieve that result.",
+        "intellectual": "... means involving a person's ability to think and to understand ideas and information.",
+        "essence of": "The ... something is its basic and most important characteristic which gives it its individual identity.",
+        "patrons": "A ... is a person who supports and gives money to artists, writers, or musicians.",
+        "steer": "When you ... a car, boat, or plane, you control it so that it goes in the direction that you want.",
+        "religion": "... is belief in a god or gods and the activities that are connected with this belief, such as praying or worshipping in a building such as a church or temple.",
+        "sphere": "A ... of people is a group of them who are similar in social status or who have the same interests.",
+        "prestige": "If a person, a country, or an organization has ..., they are admired and respected because of the position they hold or the things they have achieved.",
+        "involvement in": "Your ... something is the fact that you are taking part in it.",
+        "consolidate": "If you ... something that you have, for example power or success, you strengthen it so that it becomes more effective or secure.",
+        "dominate": "To ... a situation means to be the most powerful or important person or thing in it.",
+        "patronage": "... is the support and money given by someone to a person or a group such as a charity.",
+        "perceive": "If you ... something, you see, notice, or realize it, especially when it is not obvious.",
+        "subtle": "Something that is ... is not immediately obvious or noticeable.",
+        "rational": "... decisions and thoughts are based on reason rather than on emotion.",
+        "philosophy": "... is the study or creation of theories about basic things such as the nature of existence, knowledge, and thought, or about how people should live.",
+        "revival": "When there is a ... of something, it becomes active or popular again.",
+        "scratch the surface": "to deal with only a small part of something, without going into detail"
+}
 ```
 
 ## Collocations
