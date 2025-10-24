@@ -57,6 +57,32 @@ https://github.com/user-attachments/assets/230f1430-60db-4fde-b633-bb8774f0239d
 ## Vocabularies
 
 ```json
+"vocabularies": {
+        "peel": "When you ... fruit or vegetables, you remove their skins. ",
+        "solitary": "A person or animal that is ... spends a lot of time alone. ",
+        "opposable": "An ... thumb, finger, or toe can be placed opposite a finger or toe of the same hand or foot, so that objects can be picked up and held",
+        "thumb": "Your ... is the short thick part on the side of your hand next to your four fingers",
+        "grip": "If you ... something, you take hold of it with your hand and continue to hold it firmly. ",
+        "stalk": "The ... of a flower, leaf, or fruit is the thin part that joins it to the plant or tree. ",
+        "mating season": "the period during each year when a particular bird, animal, or fish mates",
+        "territorial": "If you describe an animal or its behaviour as ..., you mean that it has an area which it regards as its own, and which it defends when other animals try to enter it.",
+        "scent": "The ... of a person or animal is the smell that they leave and that other people sometimes follow when looking for them.",
+        "vocalise": "When you ... a sound, you use your voice to make it, especially by singing it. ",
+        "bleat": "When a sheep or goat ..., it makes the sound that sheep and goats typically make. ",
+        "honk": "If a bird, person, or musical instrument ..., they make a short, loud, harsh noise. ",
+        "secretive": "If you are ..., you like to have secrets and to keep your knowledge, feelings, or intentions hidden. ",
+        "elusive": "Something or someone that is ... is difficult to find, describe, remember, or achieve. ",
+        "patch": "A ... of land is a small area of land where a particular plant or crop grows. ",
+        "fertile": "A person or animal that is ... is able to reproduce and have babies or young. ",
+        "carnivore": "A ... is an animal that eats meat",
+        "herbivore": "A ... is an animal that only eats plants. ",
+        "vast": "Something that is ... is extremely large. ",
+        "nutrient-dense": "(of food) relatively rich in nutrients for the number of calories contained ",
+        "trait": "A ... is a particular characteristic, quality, or tendency that someone or something has. ",
+        "cuddle": "If you ... someone, you put your arms round them and hold them close as a way of showing your affection. ",
+        "keystone": "A ... of a policy, system, or process is an important part of it, which is the basis for later developments. ",
+        "marvel": "You can describe something or someone as a ... to indicate that you think that they are wonderful."
+}
 ```
 
 ## Collocations
