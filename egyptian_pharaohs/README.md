@@ -41,6 +41,10 @@ Speaker 0: A rich conversation, as always. We hope our listeners enjoyed this de
 
 
 
+https://github.com/user-attachments/assets/95fab403-2771-4eb7-8a2e-4e839f0d493b
+
+
+
 </div>
 
 
