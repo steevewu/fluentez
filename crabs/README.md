@@ -60,7 +60,46 @@ https://github.com/user-attachments/assets/a6654c2b-d973-44e1-ac8f-6b45b1029c08
 ## Vocabularies
 
 ```json
-
+"vocabularies": {
+        "armoured": "... vehicles are fitted with a hard metal covering in order to protect them from gunfire and other missiles. ",
+        "seashore": "The ... is the part of a coast where the land slopes down into the sea. ",
+        "anatomy": "... is the study of the structure of the bodies of people or animals. ",
+        "staggering": "Something that is ... is very surprising.",
+        "arthropod": "a type of animal with no spine, a hard outer skin, legs with bones joined together, and a body divided into different parts, for example a spider, crab, or ant",
+        "phylum": "one of the groups into which animals are divided, mainly based on the shape of the animal's body and the way that the body is arranged",
+        "showcase": "If something is ..., it is displayed or presented to its best advantage. ",
+        "terrestrial": "A ... animal or plant lives on land or on the ground rather than in the sea, in trees, or in the air.",
+        "zoological": "relating to the scientific study of animals, especially their structure",
+        "hermit": "A ... is a person who lives alone, away from people and society. ",
+        "porcelain": "... is a hard, shiny substance made by heating clay. It is used to make delicate cups, plates, and ornaments. ",
+        "infraorder": "a taxonomic group that is a subdivision of a suborder",
+        "carapace": "A ... is the protective shell on the back of some animals such as tortoises or crabs. ",
+        "abdomen": "Your ... is the part of your body below your chest where your stomach and intestines are. ",
+        "tucked": "If you ... something somewhere, you put it there so that it is safe, comfortable, or neat. ",
+        "clutch of": "A ... eggs is a number of eggs laid by a bird at one time. ",
+        "calcium": "... is a soft white element which is found in bones and teeth, and also in limestone, chalk, and marble. ",
+        "exoskeleton": "the protective or supporting structure covering the outside of the body of many animals, such as the thick cuticle of arthropods",
+        "veritable": "You can use ... to emphasize the size, amount, or nature of something. ",
+        "dorsal": "... means relating to the back of a fish or animal.",
+        "carpus": "the bones between the hand and the lower part of the arm that form the wrist",
+        "propodus": "the sixth segment of a crustacean's appendage, located between the carpus and the dactylus",
+        "claw": "The ... of a bird or animal are the thin, hard, curved nails at the end of its feet. ",
+        "pereopods": "a walking leg or a thoracic appendage in crustaceans used for locomotion and, sometimes, for feeding, grooming, or defense",
+        "dimorphism": "the condition of existing in two different forms within the same species",
+        "fertilise": "When an egg from the ovary of a woman or female animal is ..., a sperm from the male joins with the egg, causing a baby or young animal to begin forming. A female plant is ... when its reproductive parts come into contact with pollen from the male plant. ",
+        "locomotion": "... is the ability to move and the act of moving from one place to another. ",
+        "quirk": "A ... is a habit or aspect of a person's character which is odd or unusual. ",
+        "lateral": "... means relating to the sides of something, or moving in a sideways direction. ",
+        "gait": "A particular kind of ... is a particular way of walking. ",
+        "forage": "to go from place to place searching for things that you can eat or use",
+        "omnivores": "an animal that is naturally able to eat both plants and meat",
+        "tidal flat": "Area of a seashore that are covered by water at high tide and exposed at low tide",
+        "zoea": "the free-swimming larva of a crab or related crustacean, which has well-developed abdominal appendages and may bear one or more spines",
+        "larva": "A ... is an insect at the stage of its life after it has developed from an egg and before it changes into its adult form. ",
+        "food for thought": "Something that warrants serious consideration or reflection",
+        "caveat": "A ... is a warning of a specific limitation of something such as information or an agreement. ",
+        "formidable": "If you describe something or someone as ..., you mean that you feel slightly frightened by them because they are very great or impressive."
+    }
 ```
 
 ## Collocations
