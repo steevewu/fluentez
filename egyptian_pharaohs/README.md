@@ -51,7 +51,47 @@ https://github.com/user-attachments/assets/95fab403-2771-4eb7-8a2e-4e839f0d493b
 ## Vocabularies
 
 ```json
-
+"vocabularies": {
+        "antiquity": "the distant past (= a long time ago), especially before the sixth century",
+        "enigma": "If you describe something or someone as an ..., you mean they are mysterious or difficult to understand. ",
+        "dive straight in": "to start doing something with enthusiasm and without delay",
+        "a sharp reminder": "something that makes one suddenly and clearly remember something important",
+        "echo through history": "to have a lasting impact over time, often in a profound or memorable way",
+        "vivid portrait": "a very detailed and lifelike description or representation",
+        "deity": "A ... is a god or goddess. ",
+        "compelling": "If you describe something such as a film or book, or someone's appearance, as ..., you mean you want to keep looking at it or reading it because you find it so interesting. ",
+        "kingship": "... is the fact or position of being a king. ",
+        "monarch": "The ... of a country is the king, queen, emperor, or empress. ",
+        "embodiment of": "If you say that someone or something is the ... a quality or idea, you mean that that is their most noticeable characteristic or the basis of all they do. ",
+        "divine": "You use ... to describe something that is provided by or relates to a god or goddess.",
+        "iconography": "The ... of a group of people consists of the symbols, pictures, and objects which represent their ideas and way of life. ",
+        "unification": "... is the process by which two or more countries join together and become one country. ",
+        "crook": "A ... is a dishonest person or a criminal. ",
+        "flail": "If your arms or legs ... or if you ... them about, they wave about in an energetic but uncontrolled way. ",
+        "dynasty": "A ... is a series of rulers of a country who all belong to the same family. ",
+        "niece": "Someone's ... is the daughter of their sister or brother. ",
+        "bizarre": "Something that is ... is very odd and strange. ",
+        "ruler": "The ... of a country is the person who rules the country. ",
+        "towering": "If you describe someone or something as ..., you are emphasizing that they are impressive because of their importance, skill, or intensity. ",
+        "reign": "When a king or queen ..., he or she rules a country. ",
+        "depiction": "A ... of something is a picture or a written description of it. ",
+        "bow": "When you ... to someone, you briefly bend your body towards them as a formal way of greeting them or showing respect. ",
+        "unparalleled": "If you describe something as ..., you are emphasizing that it is, for example, bigger, better, or worse than anything else of its kind, or anything that has happened before. ",
+        "regency": "A ... is a period of time when a country is governed by a regent, because the king or queen is unable to rule. ",
+        "radical religious reform": "major changes to a religion's structure or doctrines",
+        "upheaval": "An ... is a big change which causes a lot of trouble, confusion, and worry. ",
+        "polytheism": "belief in many different gods",
+        "obscurity": "... is the state of being known by only a few people. ",
+        "priesthood": "... is the position of being a priest or the period of time during which someone is a priest. ",
+        "intertwine": "If two or more things are ... or ..., they are closely connected with each other in many ways. ",
+        "figurehead": "If someone is the ... of an organization or movement, they are recognized as being its leader, although they have little real power. ",
+        "piety": "... is strong religious belief, or behaviour that is religious or morally correct. ",
+        "legacy": "A ... is money or property which someone leaves to you when they die. ",
+        "perpetual": "A ... feeling, state, or quality is one that never ends or changes. ",
+        "monument": "A ... is a large structure, usually made of stone, which is built to remind people of an event in history or of a famous person. ",
+        "enduring": "existing for a long time",
+        "regal": "If you describe something as ..., you mean that it is suitable for a king or queen, because it is very impressive or beautiful."
+    }
 ```
 
 ## Collocations
