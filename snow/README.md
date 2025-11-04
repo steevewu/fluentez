@@ -63,7 +63,42 @@ https://github.com/user-attachments/assets/13593c22-6720-48e5-867a-6e1606c407c6
 ## Vocabularies
 
 ```json
-
+ "vocabularies": {
+        "fluff": "... consists of soft threads or fibres in the form of small, light balls or lumps. For example, you can refer to the fur of a small animal as .... ",
+        "snowflakes": "A ... is one of the soft, white bits of frozen water that fall as snow. ",
+        "prisms": "A ... is a block of clear glass or plastic which separates the light passing through it into different colours. ",
+        "scatter": "If you ... things over an area, you throw or drop them so that they spread all over the area.",
+        "crystals": "A ... is a small piece of a substance that has formed naturally into a regular symmetrical shape. ",
+        "saturate": "If people or things ... a place or object, they fill it completely so that no more can be added. ",
+        "intricate": "You use ... to describe something that has many small parts or details. ",
+        "intrigue": "If something, especially something strange, ... you, it interests you and you want to know more about it. ",
+        "particles": "A ... of something is a very small piece or amount of it. ",
+        "speck": "A ... is a very small piece of a powdery substance.",
+        "pollen": "... is a fine powder produced by flowers. It fertilizes other flowers of the same species so that they produce seeds. ",
+        "nucleus": "The ... of an atom or cell is the central part of it.",
+        "a gem": "Something highly valued or admired, often used metaphorically.",
+        "dendrite": "one of the short parts like threads at the edge of a nerve cell that carry messages to the cell",
+        "capped": "If a sports player is ..., they are chosen to represent their country in a team game such as football, rugby, or cricket. ",
+        "needle": "A ... is a small, very thin piece of polished metal which is used for sewing. It has a sharp point at one end and a hole in the other for a thread to go through. ",
+        "correlate": "If one thing ... with another, there is a close similarity or connection between them, often because one thing causes the other.",
+        "snowshoe": "... are oval frames which have a strong net stretched across them and which you fasten to your feet so that you can walk on deep snow.",
+        "toboggan": "A ... is a light wooden board with a curved front, used for travelling down hills on snow or ice. ",
+        "winter terrain": "Land covered in snow or affected by winter conditions.",
+        "gain traction": "To become popular or widely accepted.",
+        "chuckle": "When you ..., you laugh quietly. ",
+        "elaborate": "You use ... to describe something that is very complex because it has a lot of different parts. ",
+        "yuki daruma": "The name refers to the traditional two-ball shape, which resembles the round Daruma doll, a Buddhist monk figure. Modern snowmen in Japan often look like the three-ball version popular elsewhere.",
+        "limb": "Your ... are your arms and legs.",
+        "perseverance": "... is the quality of continuing with something even though it is difficult. ",
+        "a nice touch": "An added detail that improves or enhances something.",
+        "Igloo": "... are dome-shaped houses built from blocks of snow by the Inuit people. ",
+        "inuit": "The ... are a race of people descended from the original people of Eastern Canada and Greenland. ",
+        "polar": "... means near the North and South Poles. ",
+        "compact snow blocks": "Firmly packed pieces of snow used in construction.",
+        "sculpture": "A ... is a work of art that is produced by carving or shaping stone, wood, clay, or other materials. ",
+        "carve": "If you ... an object, you make it by cutting it out of a substance such as wood or stone. If you ... something such as wood or stone into an object, you make the object by cutting it out. ",
+        "hauler": "A ... is a company or a person that transports goods by road."
+}
 ```
 
 ## Collocations
