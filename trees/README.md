@@ -63,6 +63,10 @@ Speaker 2: I agree—see you next time, everyone!
 
 
 
+https://github.com/user-attachments/assets/d557df83-2848-488d-a776-e1d116e88656
+
+
+
 </div>
 
 
