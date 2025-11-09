@@ -73,7 +73,28 @@ https://github.com/user-attachments/assets/d557df83-2848-488d-a776-e1d116e88656
 ## Vocabularies
 
 ```json
-
+"vocabularies": {
+        "sobering": "You say that something is a ... thought or has a ... effect when a situation seems serious and makes you become serious and thoughtful. ",
+        "integral part": "Something that is an ... of something is an essential part of that thing. ",
+        "millennium": "A ... is a period of one thousand years, especially one which begins and ends with a year ending in '000', for example the period from the year 1000 to the year 2000. ",
+        "shelter": "If a place provides ..., it provides you with a place to stay or live, especially when you need protection from bad weather or danger. ",
+        "bark": "... is the tough material that covers the outside of a tree.",
+        "willow": "A ... or a ... tree is a type of tree with long branches and long narrow leaves that grows near water. ",
+        "trunk": "The ... of a tree is the large main stem from which the branches grow. ",
+        "phloem": "the type of plant tissue that transports food from the leaves to the other parts of the plant",
+        "xylem": "the type of plant tissue that carries water and minerals from the roots to the leaves and gives support to the stem or trunk",
+        "canopy": "A ... is a layer of something that spreads out and covers an area, for example the branches and leaves that spread out at the top of trees in a forest. ",
+        "conifer": "one of various types of evergreen tree (= one that never loses its leaves) that produce hard oval-shaped fruit called cones",
+        "tropical": "... weather is hot and damp weather that people believe to be typical of the tropics.",
+        "withstand": "If something or someone ... a force or action, they survive it or do not give in to it. ",
+        "chloroplasts": "one of the parts in a plant cell that contain chlorophyll and where energy provided by light from the sun is turned into food by photosynthesis",
+        "stomata": "one of the many pores (= very small holes in the surface) on a leaf or stem of a plant through which gases are able to pass in and out",
+        "pore": "Your ... are the tiny holes in your skin. ",
+        "wax": "... is a solid, slightly shiny substance made of fat or oil which is used to make candles and polish. It melts when it is heated.",
+        "cuticle": "Your ... are the skin at the base of each of your fingernails. ",
+        "fine-tune": "If you ... something, you make very small and precise changes to it in order to make it as successful or effective as it possibly can be. ",
+        "madness": "stupid or dangerous behaviour"
+    }
 ```
 
 ## Collocations
