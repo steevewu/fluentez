@@ -45,13 +45,37 @@ Speaker 2: Well said! I guess we’ll have to stick to our sugars in moderation 
 
 
 
+https://github.com/user-attachments/assets/7aa531b4-b050-4f71-82fa-3d2d7fc65104
+
+
+
 </div>
 
 
 ## Vocabularies
 
 ```json
-
+"vocabularies": {
+        "sucrose": "the type of sugar that exists naturally in most plants that grow on land",
+        "cane": "... is used to refer to the long, hollow, hard stems of plants such as bamboo. Strips of cane are often used to make furniture, and some types of cane can be crushed and processed to make sugar.",
+        "beet": "... is a crop with a thick round root. It is often used to feed animals, especially cows. ",
+        "syrupy": "Liquid that is ... is sweet or thick like syrup. ",
+        "boil down": "to reduce something to its essence, often through simplification or heating",
+        "molasses": "... is a thick, dark brown syrup which is produced when sugar is processed. It is used in cooking. ",
+        "refine": "When a substance is ..., it is made pure by having all other substances removed from it. ",
+        "caster sugar": " ... is white sugar that has been ground into fine grains. It is used in cooking. ",
+        "granulated sugar": " ... is sugar that is in the form of grains, and is usually white. ",
+        "fine": "Something that is ... is very delicate, narrow, or small. ",
+        "frosting": "... is a sweet substance made from powdered sugar that is used to cover and decorate cakes. ",
+        "dusting": "a thin layer of powder, snow, etc.",
+        "temperate": "... is used to describe a climate or a place which is never extremely hot or extremely cold. ",
+        "sweetening": "something that sweetens",
+        "sweet treat": "sugary or sweet food, often a dessert",
+        "humbling to think about": "a phrase expressing a sense of respect or awe when considering something",
+        "health implication": "the effects something might have on one\u2019s health",
+        "moderation": "If you say that someone's behaviour shows ..., you approve of them because they act in a way that you think is reasonable and not extreme. ",
+        "dissolve": "If a substance ... in liquid or if you ... it, it becomes mixed with the liquid and disappears."
+    }
 ```
 
 ## Collocations
