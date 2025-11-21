@@ -70,7 +70,19 @@ Speaker 0: And with that, we’ll wrap up today’s episode. Thanks for joining 
 ## Vocabularies
 
 ```json
-
+ "vocabularies": {
+        "gear up": "If someone is ... for a particular activity, they are preparing to do it. If they are ... to do a particular activity, they are prepared to do it. ",
+        "worth something": "The "..." structure is used to express that something has value, either in terms of money or in a more abstract sense, like importance, usefulness, or significance.",
+        "preservative": "A ... is a chemical that prevents things from decaying. Some ... are added to food, and others are used to treat wood or metal. ",
+        "seasoning": "... is salt, pepper, or other spices that are added to food to improve its flavour. ",
+        "hypertension": "... is a medical condition in which a person has very high blood pressure. ",
+        "seizure": "If someone has a ..., they have a sudden violent attack of an illness, especially one that affects their heart or brain. ",
+        "superstition": "... is belief in things that are not real or possible, for example magic. ",
+        "take something with a pinch of salt": "to view something with scepticism or not to take it too seriously",
+        "worth your salt": "deserving of your pay or position because of your work",
+        "spoonful": "You can refer to an amount of food resting on a spoon as a ... of food. ",
+        "sprinkle": "If you ... a thing with something such as a liquid or powder, you scatter the liquid or powder over it."
+}
 ```
 
 ## Collocations
