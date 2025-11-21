@@ -51,7 +51,15 @@ https://github.com/user-attachments/assets/d180d3bc-9a00-414a-b8d8-b4f41250e7cf
 ## Vocabularies
 
 ```json
-
+"vocabularies": {
+        "porcelain": "... is a hard, shiny substance made by heating clay. It is used to make delicate cups, plates, and ornaments. ",
+        "clay": ".. is a kind of earth that is soft when it is wet and hard when it is dry. ... is shaped and baked to make things such as pots and bricks. ",
+        "ingredient": "... are the things that are used to make something, especially all the different foods you use when you are cooking a particular dish. ",
+        "invader": "... are soldiers who are invading a country. ",
+        "intriguing": "If you describe something as ..., you mean that it is interesting or strange. ",
+        "confucianism": "the ethical system of Confucius, emphasizing moral order, the humanity and virtue of China's ancient rulers, and gentlemanly education",
+        "moral": "... are principles and beliefs concerning right and wrong behaviour."
+}
 ```
 
 ## Collocations
