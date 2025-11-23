@@ -39,6 +39,10 @@ Speaker 2: Yes, Merry Christmas to everyone, and may your holidays be filled wit
 
 
 
+https://github.com/user-attachments/assets/d025bfcf-bc21-4819-afa6-c3a7c61cae5c
+
+
+
 </div>
 
 
