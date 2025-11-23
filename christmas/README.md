@@ -45,7 +45,22 @@ Speaker 2: Yes, Merry Christmas to everyone, and may your holidays be filled wit
 ## Vocabularies
 
 ```json
-
+"vocabularies": {
+        "christianity": "... is a religion that is based on the teachings of Jesus Christ and the belief that he was the son of God. ",
+        "strike": "If you ... one thing against another, or if one thing strikes against another, the first thing hits the second thing. ",
+        "fortunate": "If you say that someone or something is ..., you mean that they are lucky. ",
+        "generosity": "If you refer to someone's ..., you mean that they are generous, especially in doing or giving more than is usual or expected. ",
+        "spirit": "Your ... is the part of you that is not physical and that consists of your character and feelings. ",
+        "bundle up": "If you ... a mass of things, you make them into a ... by gathering or tying them together. ",
+        "patron saint": "a saint regarded as the special protector of a particular group or place",
+        "scarf": "A ... is a piece of cloth that you wear round your neck or head, usually to keep yourself warm. ",
+        "mitten": "... are gloves which have one section that covers your thumb and another section that covers your four fingers together. ",
+        "symbolism": "... is the use of symbols in order to represent something. ",
+        "holly": "... is an evergreen tree or shrub which has hard, shiny leaves with sharp points, and red berries in winter.",
+        "thorn": "... are the sharp points on some plants and trees, for example on a rose bush. ",
+        "nativity": "The ... is the birth of Jesus, which is celebrated by Christians at Christmas. ",
+        "faith": "A ... is a particular religion, for example Christianity, Buddhism, or Islam."
+    }
 ```
 
 ## Collocations
