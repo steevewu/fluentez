@@ -45,6 +45,10 @@ Speaker 2: And it’s a great reminder that time, mysterious as it is, is always
 
 
 
+https://github.com/user-attachments/assets/3f0a2467-d831-43c6-8d2f-90da510eec49
+
+
+
 </div>
 
 
